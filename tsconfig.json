@@ -1,0 +1,12 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
